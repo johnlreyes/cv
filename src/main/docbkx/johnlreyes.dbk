@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<book version="5.0" xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xi="http://www.w3.org/2001/XInclude">
+	
+	<title>John L. Reyes</title>
+	<subtitle>September 04, 2011</subtitle>
+	 
+	<xi:include href="included/0.professional_overview.dbk" />
+	<xi:include href="included/1.personal_information.dbk" />
+	<xi:include href="included/2.technical_skills.dbk" />
+	<xi:include href="included/3.professional_history.dbk" />
+	<xi:include href="included/4.education.dbk" />
+	<xi:include href="included/5.achievements.dbk" />
+	
+</book>

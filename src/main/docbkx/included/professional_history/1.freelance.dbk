@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section version="5.0" xmlns="http://docbook.org/ns/docbook">
+	
+	<para/>
+	<title>Freelance</title>
+	<para/>
+	
+	<section>
+		<title>Pushmon</title>
+		<jobtitle><emphasis>Contributor</emphasis></jobtitle>	
+		<itemizedlist mark='bullet'>
+			<listitem><uri>https://github.com/teamextension/pushmon</uri></listitem>
+			<listitem>Alert platform for various medium for various indicator</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Memory Restart</title>
+		<jobtitle><emphasis>Contributor</emphasis></jobtitle>	
+		<itemizedlist mark='bullet'>
+			<listitem><uri>https://github.com/teamextension/memoryrestart</uri></listitem>
+			<listitem>Firefox plugin</listitem>
+			<listitem>Using: Java Servlets, Tomcat, PostgreSQL in Linux system</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Newsletter Management System</title>
+		<jobtitle><emphasis>Consultant</emphasis></jobtitle>	
+		<itemizedlist mark='bullet'>
+			<listitem>Design and develop a newsletter system</listitem>
+			<listitem>Using Jakarta libraries (JAMES, Utility classes) and Derby Database</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Multi Platform Data Synchronization System</title>
+		<jobtitle><emphasis>Consultant</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Using dialup modems to synchronize data in various Platform (windows, linux) in different location (Leyte, Cebu) and in various Relational Database</listitem>
+			<listitem>Technologies: Windows, Linux, Java Reflection, MySQL, PostgreSQL, CVS</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Automated Data Transfer/ETL</title>
+		<jobtitle><emphasis>Consultant</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Through client request, an automated data transfer and transformation but on a black box system in HTTP protocol</listitem>
+			<listitem>Using Derby, MySQL, HTTPClient and Java Concurrency package</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Sastre Hardware Web-based Inventory System</title>
+		<jobtitle><emphasis>Consultant</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Maasin, Leyte hardware store inventory system</listitem>
+			<listitem>Using: Java Servlets, Tomcat, PostgreSQL in Linux system</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Sastre Restaurant Web-based POS</title>
+		<jobtitle><emphasis>Consultant</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Maasin, Leyte restaurant store Point of Sales System</listitem>
+			<listitem>Using: Java Servlets, Tomcat, PostgreSQL in Linux system</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Sastre Internet Cafe Web-based Report Monitoring System</title>
+		<jobtitle><emphasis>Consultant</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Maasin, Leyte internet cafe monitoring and reporting System</listitem>
+			<listitem>Using: Java Servlets, Tomcat, PostgreSQL in Linux system</listitem>
+		</itemizedlist>		
+	</section>
+	
+	<para/>
+	<para/>
+	<para/>
+	<para/>
+	<para/>
+	
+</section>

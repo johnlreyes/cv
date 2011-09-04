@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section version="5.0" xmlns="http://docbook.org/ns/docbook">
+	
+	<para/>
+	<title>Geeks Computer Services <date>03/05</date> to <date>10/06</date></title>
+	<para/>
+	
+	<section>
+		<title>Officer In Charge/Project Manager</title>
+		<para>Infrastructure management, resource management and client negotiations</para>
+	</section>
+	<section>
+		<title>Campokpok Hardwared/Sofware System</title>
+		<itemizedlist mark='bullet'>
+			<listitem>Campokpok municipal system upgrades</listitem>
+			<listitem>Using Opensource technologies to leverage cost and piracy issue</listitem>
+			<listitem>Reconfigure current office workstations</listitem>
+			<listitem>Technologies: ReactOS, Mandrake and OpenOffice Suites.</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Ormoc Lending Hardwared/Sofware System</title>
+		<itemizedlist mark='bullet'>
+			<listitem>Hardware maintenance and upgrades</listitem>
+			<listitem>Operating System Re-installation  using ReactOS (reactos.org)</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Ormoc Lending Web-based Reporting System</title>
+		<itemizedlist mark='bullet'>
+			<listitem>Extension to current reporting System which is not web-based.</listitem>
+			<listitem>Technologies: Java/JSP, Eclipse, Tomcat, MySQL, CVS</listitem>
+		</itemizedlist>		
+	</section>
+	
+	<para/>
+	<para/>
+	<para/>
+	<para/>
+	<para/>
+	
+</section>

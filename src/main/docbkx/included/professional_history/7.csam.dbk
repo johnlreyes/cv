@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section version="5.0" xmlns="http://docbook.org/ns/docbook">
+	
+	<para/>
+	<title>Smartware (CSAM health) <date>02/09</date> to <date>05/11</date></title>
+	<para/>
+	
+ 	<section>
+		<title>Framework Project <date>01/11</date> to <date>05/11</date></title>
+		<jobtitle><emphasis>Lead/Developer</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>New Architecture RimBAA</listitem>
+			<listitem>HL7v3, Maven3, EJB3, JPA2, Oracle DB, Weblogic 11g, IntelliJ</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Plexus Client Release Configuration <date>01/11</date> to <date>02/11</date></title>
+		<jobtitle><emphasis>Lead</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Provide release automation using hudson</listitem>
+			<listitem>Configuration migration and verification</listitem>
+		</itemizedlist>
+	</section>
+    <section>
+		<title>Pilot Patient Index Project <date>12/10</date> to <date>01/11</date></title>
+		<jobtitle><emphasis>Developer</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Provide reference implemention using Maven3, EJB3, JPA1, Spring3, AspectJ</listitem>
+			<listitem>Provide deployment server using Virtual Machines</listitem>
+			<listitem>Configuration of automated QA tool (sonar)</listitem>
+		</itemizedlist>
+	</section>
+ 	<section>
+		<title>Virtualization Infrastructure <date>10/10</date> to <date>12/10</date></title>
+		<jobtitle><emphasis>Point Person</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Using VirtualBox, created virtual machines with features of a deployment server</listitem>
+			<listitem>Oracle Enterprise Linux, WebLogic 11g, Oracle 11g Database</listitem>
+			<listitem>This VM contains the Plexus Product lines</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Technical Writer <date>09/10</date> to <date>10/10</date></title>
+		<jobtitle><emphasis>Technical Lead</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Infrastructure Installation and Configurations</listitem>
+			<listitem>Product Deployments</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Infrastructure Reconfiguration and Product Deployment Automation <date>09/10</date> to <date>10/10</date></title>
+		<jobtitle><emphasis>Technical Lead</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Infrastructure Installation and Configurations of Oracle Enterprise Linux, Oracle 11g Database, weblogic 11g  server(s)</listitem>
+			<listitem>Product Deployment Automation using hudson, maven</listitem>
+			<listitem>Develop custom ant task for deployment customization features</listitem>
+		</itemizedlist>
+	</section>	    
+	<section>
+		<title>QA Team Test Automation Workshop <date>08/10</date> to <date>08/10</date></title>
+		<jobtitle><emphasis>Technology Officer/Lead</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Establish with the QA team a new roadmap for test automation</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Database Change Management Automation <date>07/10</date> to <date>08/10</date></title>
+		<jobtitle><emphasis>Point Person</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Using Liquibase and Hudson for internal database servers update.</listitem>
+			<listitem>Develop custom ant task for interfacing liquibase with legacy sql scripts</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Product High Availability Deployment Migration <date>06/10</date> to <date>07/10</date></title>
+		<jobtitle><emphasis>Point Person</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Migrate and deploy Plexus (struts and adf based) Product line in a clustered configuration.</listitem>
+			<listitem>Enabling session replication and update codes for clustered deployment</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Plexus Defect fixing <date>06/10</date> to <date>06/10</date></title>
+		<jobtitle><emphasis>Developer</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Fixes bugs from Clinical Portal</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Plexus Clinical Portal Maven Migration <date>03/10</date> to <date>05/11</date></title>
+		<jobtitle><emphasis>Point Person</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Maven migration from legacy ant driven build</listitem>
+			<listitem>Provide Standard Development Environment (Eclipse, Jdeveloper, Netbeans, IntelliJ)</listitem>
+			<listitem>Establish Automated build, continuous integration and continuous testing.</listitem>
+			<listitem>maven 2.2.1, nexus 1.5, hudson 1.3, stiq 2.1, weblogic 10.3</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Plexus Integration Platform <date>01/10</date> to <date>05/11</date></title>
+		<jobtitle><emphasis>Senior Developer</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Provide HL7v3 web services orchestration with existing platform and client platforms</listitem>
+			<listitem>Jdeveloper 11g, Oracle SOA Suites (BPEL, XSD, XSLT, JCA, etc), weblogic 10.3</listitem>
+		</itemizedlist>	
+	</section>
+	<section>
+		<title>Plexus Development Platform Planning <date>10/09</date> to <date>10/09</date></title>
+		<jobtitle><emphasis>Point Person</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>SVN restructuring planning</listitem>
+			<listitem>Project maven migration planning</listitem>
+		</itemizedlist>	
+	</section>
+	<section>
+		<title>Plexus Platform Performance Enhancements <date>08/09</date> to <date>12/09</date></title>
+		<jobtitle><emphasis>Point Person</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Optimize Web components
+				<itemizedlist mark='bullet'>
+					<listitem>Yslow, PageSpeed, ShowSlow, Cesium, Quest SQL , JSLint, Netbeans Profiler, Sonar (PMD, FindBugs), Firefox throttle, Firebug</listitem>
+					<listitem>Custom Servlet Filters as a Resource Optimizer Adapter</listitem>
+					<listitem>Image crawler for static image optimization</listitem>
+					<listitem>Refactor base components for optimization and better application architecture implementation through Design Patterns</listitem>
+					<listitem>Customized optimization libraries JAWR and HtmlCompressor</listitem>
+					<listitem>Critical Javascript component optimization</listitem>
+				</itemizedlist>					
+			</listitem>
+			<listitem>Optimize Database Components
+				<itemizedlist mark='bullet'>
+					<listitem>Refactor SQL queries atleast 50% response time</listitem>
+					<listitem>Migrate Java components to PLSQL implementation to gain atleast 90% response time gain</listitem>
+				</itemizedlist>	
+			</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Plexus Jboss Richfaces Evaluation <date>06/09</date> to <date>07/09</date></title>
+		<jobtitle><emphasis>Senior Developer</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Create Prototype Web Components for future projects and migration of current projects.</listitem>
+			<listitem>Jboss Richfaces, maven</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Plexus CP <date>04/09</date> to <date>06/09</date></title>
+		<jobtitle><emphasis>Senior Developer</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Implement New Functionality</listitem>
+			<listitem>Defect Fixing</listitem>
+			<listitem>IDE migration (Eclipse,MyEclipse,Netbeans,JDeveloper) of current development environment</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Plexus Automated Technical QA Tools <date>04/09</date> to <date>05/11</date></title>
+		<jobtitle><emphasis>Technology Officer/Lead</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>
+				Introduce Technical QA Tools:
+				<itemizedlist mark='bullet'>
+					<listitem>Sonar (aggregate java static/dynamic analysis[checkstyle, findbugs, PMD, etc.])</listitem>
+					<listitem>Maven/Nexus/Artifactory</listitem>
+					<listitem>Netbeans Profiler/Visual VM</listitem>
+					<listitem>Yslow, Pagespeed</listitem>
+					<listitem>Javascript Lint</listitem>
+				</itemizedlist>
+			</listitem>
+			<listitem>Propose SVN proxies</listitem>
+			<listitem>Maintenance of hudson for continuous automated code review</listitem>
+		</itemizedlist>
+	</section>
+	<section>
+		<title>Plexus Automated Testing <date>04/09</date> to <date>05/11</date></title>
+		<jobtitle><emphasis>Technology Officer/Lead</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Introduce Automated Web Testing (Selenium/STIQ)</listitem>
+			<listitem>Conduct workshop and training to QA Team</listitem>
+			<listitem>Establish Automated Test Process and Standard</listitem>
+			<listitem>Technical proposals to enhance Quality Assurance Team</listitem>
+			<listitem>Maintenance of hudson for continuous automated testing</listitem>
+		</itemizedlist>	
+	</section>
+	<section>
+		<title>Plexus Patient Index <date>02/08</date> to <date>04/09</date></title>
+		<jobtitle><emphasis>Senior Developer</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Bug Fixing</listitem>
+			<listitem>ReEngineering Proposals (introduce facelets)</listitem>
+			<listitem>Provide Unit Test with 100% Code Coverage</listitem>
+		</itemizedlist>	
+	</section>
+	
+	<para/>
+	<para/>
+	<para/>
+	<para/>
+	<para/>
+	
+</section>

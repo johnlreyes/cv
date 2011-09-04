@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section version="5.0" xmlns="http://docbook.org/ns/docbook">
+	
+	<para/>
+	<title>QuantSys Software Corporation <date>10/06</date> to <date>04/07</date></title>
+	<para/>
+	
+	<section>
+		<title>Officer In Charge/Project Manager <date>10/06</date> to <date>04/07</date></title>
+		<para>Infrastructure management and resource management</para>			
+	</section>
+	<section>
+		<title>Online Web Learning System <date>10/06</date> to <date>12/06</date></title>
+		<jobtitle><emphasis>Developer</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Research, Design and Develop Java based VOIP (sip) platform.</listitem>			
+			<listitem>Using opensource technologies this project aim to be an online conference/learning system to be deployed in various OS.</listitem>
+			<listitem>Technologies: Windows, Linux, ReactOS, Eclipse, Java, JBOSS/Mobicents, MjSIP, MySQL, PostgreSQL, SVN</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Foreclosure System <date>12/06</date> to <date>03/07</date></title>
+		<para><uri>www.foreclosureboss.com</uri></para>	
+		<jobtitle><emphasis>Project Manager/Developer</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Partnered with US foreclosure experts to produce a web based foreclosure system</listitem>
+			<listitem>Technologies: Windows, Linux, Eclipse, PHP5, Apache, MySQL, PostgreSQL, SVN</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Lamps Online Store <date>03/07</date> to <date>04/07</date></title>
+		<jobtitle><emphasis>Project Manager/Developer</emphasis></jobtitle>		
+		<itemizedlist mark='bullet'>
+			<listitem>An online store selling lamps</listitem>
+			<listitem>Technologies: Linux, Eclipse, PHP5, Apache, MySQL, PayPal Credit Card Processor (SOA), SVN</listitem>
+		</itemizedlist>		
+	</section>	
+	
+	<para/>
+	<para/>
+	<para/>
+	<para/>
+	<para/>
+		
+</section>

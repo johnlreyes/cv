@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section version="5.0" xmlns="http://docbook.org/ns/docbook">
+	
+	<para/>
+	<title>IBM GDC Cebu <date>05/11</date> to <date>PRESENT</date></title>
+	<para/>
+	
+	<section>
+		<title>IBM ECM <date>05/11</date> to <date>PRESENT</date></title>
+		<jobtitle><emphasis>Developer: Java</emphasis></jobtitle>		
+		<itemizedlist mark='bullet'>
+			<listitem>IBM's Enterprise Content Management System</listitem>	
+			<listitem>RAD, WebSphere, DB2</listitem>
+			<listitem>Servlet, JSP, JDBC, JS, CSS, HTML</listitem>
+		</itemizedlist>		
+	</section>
+	
+	<para/>
+	<para/>
+	<para/>
+	<para/>
+	<para/>
+	
+</section>

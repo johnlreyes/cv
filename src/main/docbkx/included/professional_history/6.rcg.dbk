@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section version="5.0" xmlns="http://docbook.org/ns/docbook">
+
+	<para/>
+	<title>RCG Information Techologies - 06/07 to 01/09</title>
+	<para/>
+	
+	<section>
+		<title>MTC SpiffCentral3 Pre-Release <date>11/08</date> to <date>01/09</date></title>
+		<jobtitle><emphasis>Technical Lead/Team Lead</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Deployment Documentation Review</listitem>
+			<listitem>Enhancement Proposal Estimates Review</listitem>
+			<listitem>Stress Testing Metrics (Measure capability of the system)</listitem>
+			<listitem>YSlow Performance Metrics and Provide performance proposals</listitem>
+			<listitem>Technologies: Selenium-IDE, Selenium-RC, JConsole, JMeter, YSlow, FireBug</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>MTC SpiffCentral Version 4 Architecture(US deployment) <date>05/08</date> to <date>11/08</date></title>
+		<jobtitle><emphasis>Technical Lead</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Architecture review and enhancements for upcoming Projects</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>MTC SpiffCentral3 Rapid Response Team (US deployment) <date>05/08</date> to <date>11/08</date></title>
+		<jobtitle><emphasis>Technical Lead</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Client Production Deployment</listitem>
+			<listitem>Feature Review and Integration of Offshore Team</listitem>
+			<listitem>Overall System Enhancements and Performance Improvements</listitem>
+			<listitem>Offshore(Makati) SCM(SVN)/CI(Hudson) management</listitem>
+			<listitem>Database Management and Reengineering</listitem>
+			<listitem>Platform Research Provider</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Mentoring <date>01/08</date> to <date>05/08</date></title>
+		<jobtitle><emphasis>Practioner</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Handle Technical Interviews.</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Marketing Technology Concepts SpiffCentral RED Items <date>04/08</date> to <date>05/08</date></title>
+		<jobtitle><emphasis>Technical Lead/Team Lead</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Infrastructure Management, Project Planning, Design and Design Review, Estimation, Resource Management</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Marketing Technology Concepts SpiffCentral Enhancement <date>04/08</date> to <date>05/08</date></title>
+		<jobtitle><emphasis>Technical Lead/Team Lead</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Infrastructure Management, Project Planning, Design and Design Review, Estimation, Resource Management.</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Marketing Technology Concepts SpiffCentral System Integration Testing <date>01/08</date> to <date>05/08</date></title>
+		<jobtitle><emphasis>Technical Lead/Team Lead</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>System Integration Testing of the Iteration 3 of SpiffCentral</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Marketing Technology Concepts SpiffCentral Promotion Configuration <date>12/07</date> to <date>05/08</date></title>
+		<jobtitle><emphasis>Technical Lead/ Designer/ Developer</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>SpiffConfiguration overhaul of MTC SpiffCentral</listitem>
+			<listitem>Technologies: SpringFramework,  SpringMVC, SpringWebFlow, YUI, Prototype, JSP-TagFiles, FireBug, Hibernate, MySQL, MyEclipse, SVN</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Marketing Technology Concepts SpiffCentral UI Prototype <date>11/07</date> to <date>12/07</date></title>
+		<jobtitle><emphasis>Designer/Developer</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Research and Development of Various Front end technologies</listitem>
+			<listitem>Javascript: Prototype, YUI, GWT</listitem>
+			<listitem>Technologies: SpringFramework,  SpringMVC, MyEclipse, SVN</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Marketing Technology Concepts SpiffCentral Link and Launch <date>10/07</date> to <date>05/08</date></title>
+		<jobtitle><emphasis>Designer/Developer</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Link and Launch update and reimplementation of MTC SpiffCentral</listitem>
+			<listitem>Single Sign on connecting to MTC Legacy System</listitem>
+			<listitem>Technologies: SpringFramework,  SpringMVC, JCE, JAXB, Hibernate, MySQL, MyEclipse, SVN</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Marketing Technology Concepts SpiffCentral Registration <date>09/07</date> to <date>05/08</date></title>
+		<jobtitle><emphasis>Designer/Developer</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Registration Update System of MTC SpiffCentral</listitem>
+			<listitem>Technologies: SpringFramework, SpringMVC, Spring-Acegi, JavaMail, YUI, Prototype, Hibernate, MySQL, MyEclipse, SVN</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Marketing Technology Concepts SpiffCentral Reports <date>08/07</date> to <date>05/08</date></title>
+		<jobtitle><emphasis>Designer/Developer</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Reporting System of MTC SpiffCentral</listitem>
+			<listitem>Research and Technology Proposal to clients</listitem>
+			<listitem>Create custom spring-jasper module</listitem>
+			<listitem>Technologies: SpringFramework,  SpringMVC, Spring-Jasper, DisplayTag, Jakarta POI, Itext, YUI, Prototype, Hibernate, MySQL, MyEclipse, SVN</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Walgreen RX Compliance Advisor Phase4-A Project <date>06/07</date> to <date>07/07</date></title>
+		<jobtitle><emphasis>Developer</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Feature Update of Walgreen's RX Compliance web application</listitem>
+			<listitem>Develop front end and server side components</listitem>
+			<listitem>Technologies: Java/JSP, WSAD/Eclipse, Hibernate, MySQL</listitem>
+		</itemizedlist>		
+	</section>
+	
+	<para/>
+	<para/>
+	<para/>
+	<para/>
+	<para/>
+	
+</section>

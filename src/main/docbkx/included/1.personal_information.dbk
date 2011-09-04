@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter version="5.0" xmlns="http://docbook.org/ns/docbook">
+	<title>Personal Information</title>
+	<para/>
+	<para>Name: <emphasis>John L. Reyes</emphasis></para>
+	<para>Age: <emphasis>33</emphasis></para>
+	<para>Birth Date: <date>June 17, 1978</date></para>
+	<para>Phone: <phone>639173904245</phone></para>
+	<para>Address: <emphasis>Cebu City, Philippines</emphasis></para>
+	<para/> 
+	<para>Email Address: <email>JohnLReyes@yahoo.com</email></para>	
+	<para>Yahoo Messenger: <emphasis>JohnLReyes</emphasis></para>
+	<para>Skype: <emphasis>JohnLReyes</emphasis></para>
+	<para>ICQ: <emphasis>413009157</emphasis></para>
+	<para>Windows Live: <emphasis>JohnLReyes</emphasis></para>
+	<para>AIM: <emphasis>JohnLReyes@yahoo.com</emphasis></para>
+	<para>Meebo: <emphasis>JohnLReyes</emphasis></para>
+	<para/>
+	<para>LinkedIn: <uri>http://ph.linkedin.com/in/johnlreyes</uri></para>
+	<para>GitHub: <uri>https://github.com/johnlreyes</uri></para>
+</chapter>

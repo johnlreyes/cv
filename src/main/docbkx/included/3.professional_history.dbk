@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter version="5.0" xmlns="http://docbook.org/ns/docbook" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+	<title>Professional History</title>
+	
+	<xi:include href="professional_history/8.ibm.dbk" />
+	<xi:include href="professional_history/7.csam.dbk" />
+	<xi:include href="professional_history/6.rcg.dbk" />
+	<xi:include href="professional_history/5.quantsys.dbk" />
+	<xi:include href="professional_history/4.geeks.dbk" />
+	<xi:include href="professional_history/3.nec.dbk" />
+	<xi:include href="professional_history/2.microserv.dbk" />
+	<xi:include href="professional_history/1.freelance.dbk" />
+	<xi:include href="professional_history/0.personal.dbk" />
+	
+</chapter>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section version="5.0" xmlns="http://docbook.org/ns/docbook">
+	
+	<para/>
+	<title>NEC Telecom Software Philippines <date>11/00</date> to <date>03/04</date></title>
+	<para/>
+	
+	<section>
+		<title>Element Management System TR/Gateway <date>09/03</date> to <date>03/04</date></title>
+		<jobtitle><emphasis>Developer</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Improve and implement additional Feature for TR/Gateway Modules</listitem>
+			<listitem>Low level communication to actual EMS Device</listitem>
+			<listitem>Technologies: JavaText Editor, Eclipse, RougeWave Libraries</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>SpwvMgr Support Consultant <date>09/03</date> to <date>03/04</date></title>
+		<jobtitle><emphasis>Technical Lead</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Production Support</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>SpwvMgr Performance Improvement Team <date>06/03</date> to <date>09/03</date></title>
+		<jobtitle><emphasis>Technical Lead</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Design Review and Code Review</listitem>
+			<listitem>Involved in Stability and Performance Improvement of PF and AIS Spectralwave manager</listitem>
+			<listitem>Analyze design and implementation to locate performance bottlenecks:
+				<itemizedlist mark='bullet'>					
+					<listitem>Database Middleware (PostgreSQL and Drivers)</listitem>
+					<listitem>Database schema</listitem>
+					<listitem>Database manager</listitem>
+					<listitem>Generic and Utility Classes</listitem>
+					<listitem>Application Server (JBOSS)</listitem>
+					<listitem>Messaging Middleware (JMS, Notification Service)</listitem>
+					<listitem>Server Side Components</listitem>
+				</itemizedlist>		
+			</listitem>
+			<listitem>Documents the outputs of analysis and design</listitem>
+			<listitem>Refactor, redesign and reimplement bottlenecks</listitem>
+			<listitem>Environment / Software - Windows 2000, Solaris, J2SE, J2EE, CORBA (NotificationService), SQL, JBOSS (JNDI, JMS, JTS, JMX, JCA), JProbe Suite 5.0</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>SpwvMgr Performance Japan Client Support <date>03/03</date> to <date>06/03</date></title>
+		<jobtitle><emphasis>Support Developer</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Business Trip to support client deployment</listitem>
+			<listitem>Research and Development in various  J2EE Technologies</listitem>
+			<listitem>Performance investigation and enhancement for various part of the system</listitem>
+			<listitem>Proposed to form a Performance Related Team</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Spectralwave Platform Team Phase 1 <date>12/02</date> to <date>04/03</date></title>
+		<jobtitle><emphasis>Technical Lead</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Design Review and Code Review</listitem>
+			<listitem>Develop Network Management System (Manage EMS systems)</listitem>
+			<listitem>Develop SpectralWave Mgr StandAlone Generic Framework and Components</listitem>
+			<listitem>Develop Generic and Utility Classes</listitem>
+			<listitem>Develop SystemManager, main management application</listitem>
+			<listitem>Develop Core Server Components. Main Skeleton of SPWVMgr</listitem>
+			<listitem>Develop DatabaseManager. A Generic Persistence Component</listitem>
+			<listitem>Technologies: Windows 2000, Solaris, PostgreSQL, J2SE, J2EE</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Association of Japanese Overseas Training Service <date>09/02</date> to <date>12/02</date></title>
+		<jobtitle><emphasis>Trainee</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>General Orientation Course (9 days)  -  Chubu Kenshou Center, Japan</listitem>
+			<listitem>Technical Training (3 months)  - NTES, Tamagawa, Japan</listitem>
+			<listitem>Develop Simplified Java Applet version of Spwvmgr for client demo puposes</listitem>
+			<listitem>Redesigned and ReImplemented Messaging system for performance improvement</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Spectralwave Manager Phase 0 <date>07/02</date> to <date>09/02</date></title>
+		<jobtitle><emphasis>Technical Lead</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Develop Network Management System (Manage EMS systems)</listitem>
+			<listitem>NSP SpwvMgr Team adopted Extreme Programming Development (Pair Programming)</listitem>
+			<listitem>Involved in the Design, Implementation and Continuous Integration with Testing</listitem>
+			<listitem>Used JBuilder to quickly develop GUIs</listitem>
+			<listitem>Technologies: Windows 2000, PostgreSQL, J2SE, J2EE</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Python Protyping Group <date>02/02</date> to <date>07/02</date></title>
+		<jobtitle><emphasis>Practioner</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Research and Propose python for various NEC projects</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Spectralwave Manager Alpha Version <date>02/02</date> to <date>07/02</date></title>
+		<jobtitle><emphasis>Designer/Developer</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Develop Network Management System (Manage EMS systems)</listitem>
+			<listitem>Improvement of Prototype Version</listitem>
+			<listitem>Involve in redesigning backend and middleware components</listitem>
+			<listitem>Code review and implementation refactoring for optimal performance</listitem>
+			<listitem>Technologies: Windows 2000, PostgreSQL, J2SE, J2EE, JONAS, OPENORB</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Spectralwave Manager Prototype <date>10/01</date> to <date>01/02</date></title>
+		<jobtitle><emphasis>Developer</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Develop Network Management System (Manage EMS systems)</listitem>
+			<listitem>NTSP pioneering J2EE project</listitem>
+			<listitem>Technology evaluation: PostgreSQL, MySQL, Borland AppServer, Jbuilder IDE, JONAS, IONA technologies</listitem>
+			<listitem>Involves in backend Modules:  Spwvmgr Framework ( Application Framework, Database Framework, Messaging Framework )</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Element Management System Quality Assurance Team <date>05/01</date> to <date>09/01</date></title>
+		<jobtitle><emphasis>QA Tester</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Black box tester for the NEC EMS Project</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Web-based Training Monitoring System <date>11/00</date> to <date>05/01</date></title>
+		<jobtitle><emphasis>Trainee</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Monitors trainee attendance, scores and generate reports</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>NEC Internal Training <date>11/00</date> to <date>05/01</date></title>
+		<jobtitle><emphasis>Trainee</emphasis></jobtitle>
+		<itemizedlist mark='bullet'>
+			<listitem>Trained in C, C++, Java, Solaris, Linux, Telecom Concepts, UML, Data Structures.</listitem>
+		</itemizedlist>
+	</section>
+	
+	<para/>
+	<para/>
+	<para/>
+	<para/>
+	<para/>
+	
+</section>

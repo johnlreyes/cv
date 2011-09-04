@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section version="5.0" xmlns="http://docbook.org/ns/docbook">
+	
+	<para/>
+	<title>Personal</title>
+	<para/>
+	
+	<section>
+		<title>CV using docbook</title>
+		<jobtitle><emphasis>Developer</emphasis></jobtitle>	
+		<itemizedlist mark='bullet'>
+			<listitem><uri>https://github.com/johnlreyes/cv</uri></listitem>
+			<listitem>CV uploaded at github</listitem>	
+			<listitem>maven, docbook</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>RIMBAA jpa model</title>
+		<itemizedlist mark='bullet'>
+			<listitem><uri>https://github.com/johnlreyes/rimbaa</uri></listitem>
+			<listitem>jpa implementation of HL7 v3 Data Types</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>CDRKing Search</title>
+		<jobtitle><emphasis>Developer</emphasis></jobtitle>	
+		<itemizedlist mark='bullet'>
+			<listitem><uri>https://github.com/johnlreyes/cdrking-search</uri></listitem>
+			<listitem>Responsive search for cdrking</listitem>
+			<listitem>Lucene, Voldemort, Xpath</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>Pusta</title>
+		<jobtitle><emphasis>Developer</emphasis></jobtitle>	
+		<itemizedlist mark='bullet'>
+			<listitem><uri>https://github.com/johnlreyes/pusta</uri></listitem>
+			<listitem>Web app for tracking lotto results</listitem>
+			<listitem>freemarker, spring 3</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>SSC</title>
+		<jobtitle><emphasis>Developer</emphasis></jobtitle>	
+		<itemizedlist mark='bullet'>
+			<listitem><uri>https://github.com/johnlreyes/ssc</uri></listitem>
+			<listitem>Web Portal for YSlow and PageSpeed beacons</listitem>
+			<listitem>maven, jpa, beacon</listitem>
+		</itemizedlist>		
+	</section>
+	
+	<para/>
+	<para/>
+	<para/>
+	<para/>
+	<para/>
+	
+</section>

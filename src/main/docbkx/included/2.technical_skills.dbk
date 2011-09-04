@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<chapter version="5.0" xmlns="http://docbook.org/ns/docbook">
+
+	<title>Technical Skills</title>
+	
+	<para>
+	<table>
+		<caption></caption>
+		<tgroup cols="2">
+			<colspec align="left" colwidth="100" />
+			<colspec align="left" />
+			
+			<tbody>
+				<row>
+					<entry>Languages</entry>
+					<entry>
+					Java, J2EE, JSP/JSTL, SQL, UML, JavaScript, PHP, HTML, 
+					CSS, XML, Windows Scripting, Unix Scripting, Python, C, 
+					C++, Assembly
+					</entry>
+				</row>
+				<row><entry></entry></row>
+				<row>
+					<entry>Database</entry>
+					<entry>
+					DB2, Voldemort, Oracle, MySQL, PostgreSQL, Derby, MS Access
+					</entry>
+				</row>
+				<row><entry></entry></row>
+				<row>
+					<entry>Operating System</entry>
+					<entry>
+					Windows (3.1, 98, ME, 2000, NT, XP, Vista), 
+					Linux (Gentoo, Redhat, Mandrake, etc.), 
+					Solaris, ReactOS, DOS
+					</entry>
+				</row>
+				<row><entry></entry></row>
+				<row>
+					<entry>Frameworks</entry>
+					<entry>
+					Jboss RichFaces, Struts-1, Oracle ADF, SpringCore, 
+					SpringJasper, SpringMVC, SpringWebFlow, SpringAcegi, 
+					Hibernate, Jasper Reports, Junit, Cactus, JsUnit, 
+					Selenium, ANT, Log4J, openORB, YUI, Prototype, 
+					JavascriptMVC, Maven2/3
+					</entry>
+				</row>
+				<row><entry></entry></row>
+				<row>
+					<entry>Quality Assurance</entry>
+					<entry>
+					STIQ, CubicTest, PageSpeed, Junit, Selenium-IDE, 
+					Selenium-RC, JConsole, JMeter, YSlow, FireBug, Cactus, 
+					JsUnit, WebCanoo, Jprofile, Jprobe, Jboss Profiler, 
+					Eclipse TPTP
+					</entry>
+				</row>
+				<row><entry></entry></row>
+				<row>
+					<entry>Technologies</entry>
+					<entry>
+					JSF, JPA, Java Reflection, JCE,  Java Concurrency, 
+					JTA, JMS, JavaMail, JDBC,  EJB, Session Bean, MDB, 
+					Entity Bean, JFC/Swing, RMI, JNDI, SAX/DOM/ JAXB, 
+					CORBA, AJAX
+					</entry>
+				</row>
+				<row><entry></entry></row>
+				<row>
+					<entry>Application Server</entry>
+					<entry>
+					Weblogic, OC4J, JBOSS, Mobicents, WebSphere, 
+					Borland AppServer, JONAS
+					</entry>
+				</row>
+				<row><entry></entry></row>
+				<row>
+					<entry>Tools</entry>
+					<entry>
+					Netbeans, Jdeveloper, Eclipse/MyEclipse, sqlYOG, 
+					navicat, iReport, Notepad++, ultraEdit, multipleIE, 
+					FireBug, MS Office, OpenOffice, Abi Suites, Rational Rose, 
+					WSAD, CVS, SVN, ArgoUML, RogueWave Libraries, 
+					Cygwin, POI, Quartz, Apache Commons, 
+					Cruise Control, Hudson
+					</entry>
+				</row>
+				<row><entry></entry></row>
+				<row>
+					<entry>Networking</entry>
+					<entry>
+					LAN Configuration, Linux Configuration (Samba, Partition, etc.), 
+					Putty, Filezilla, Tightvnc
+					</entry>
+				</row>
+				<row><entry></entry></row>
+				<row>
+					<entry>Protocols</entry>
+					<entry>
+					TCP/IP, UDP, HTTP, POP3, SMTP, FTP, Telnet, SOAP, SCP
+					</entry>
+				</row>
+				<row><entry></entry></row>
+				<row>
+					<entry>Methodologies</entry>
+					<entry>
+					OOAD, SDLC, XP, Agile, RUP
+					</entry>
+				</row>
+				<row><entry></entry></row>
+				<row>
+					<entry>Websites</entry>
+					<entry>
+					sourceforge.net, javaforge.net, apache.org, jakarta.org, 
+					dzone.com, theserverside.com, javaspecialist.org, 
+					ibm.com, openqa.org, infoq.com
+					</entry>
+				</row>
+			</tbody>
+		</tgroup>
+	</table>
+	</para>
+	
+</chapter>
