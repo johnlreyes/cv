@@ -6,11 +6,20 @@
 	<para/>
 	
 	<section>
+		<title>Zahaa</title>
+		<jobtitle><emphasis>Contributor</emphasis></jobtitle>	
+		<itemizedlist mark='bullet'>
+			<listitem>Social Collaboration (Search, using Bing and Wikipedia api)</listitem>
+			<listitem>Using: SpringMVC, SpringSecurity, JPA, Thymeleaf, JQuery, Maven, MySQL, Amazon Beanstalk, Git</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
 		<title>Pushmon</title>
 		<jobtitle><emphasis>Contributor</emphasis></jobtitle>	
 		<itemizedlist mark='bullet'>
 			<listitem><uri>https://github.com/teamextension/pushmon</uri></listitem>
 			<listitem>Alert platform for various medium for various indicator</listitem>
+			<listitem>Using: SpringMVC, SpringSecurity, Spring JDBC Template, FreeMarker, JQuery, Ivy, Liquibase, Derby, MySQL, Git</listitem>
 		</itemizedlist>		
 	</section>
 	<section>
@@ -19,7 +28,7 @@
 		<itemizedlist mark='bullet'>
 			<listitem><uri>https://github.com/teamextension/memoryrestart</uri></listitem>
 			<listitem>Firefox plugin</listitem>
-			<listitem>Using: Java Servlets, Tomcat, PostgreSQL in Linux system</listitem>
+			<listitem>Using: JavaScript, Css, Git</listitem>
 		</itemizedlist>		
 	</section>
 	<section>
