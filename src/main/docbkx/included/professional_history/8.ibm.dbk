@@ -10,11 +10,25 @@
 		<jobtitle><emphasis>Developer: Java</emphasis></jobtitle>		
 		<itemizedlist mark='bullet'>
 			<listitem>IBM's Enterprise Content Management System</listitem>	
-			<listitem>RAD, WebSphere, DB2</listitem>
+			<listitem>RAD, WebSphere, DB2, CVS</listitem>
 			<listitem>Servlet, JSP, JDBC, JS, CSS, HTML</listitem>
+			<listitem>sample client: http://www.ibm.com</listitem>
 		</itemizedlist>		
 	</section>
-	
+	<section>
+		<title>IBM ECM <date>05/11</date> to <date>PRESENT</date></title>
+		<jobtitle><emphasis>Pooled: PM COE</emphasis></jobtitle>		
+		<itemizedlist mark='bullet'>
+			<listitem>IBM's GDC Project Manager Center of Excellence</listitem>				
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>IBM ECM <date>11/11</date> to <date>PRESENT</date></title>
+		<jobtitle><emphasis>Skills Assessor</emphasis></jobtitle>		
+		<itemizedlist mark='bullet'>
+			<listitem>assess IBM GDC resources skill sets</listitem>				
+		</itemizedlist>		
+	</section>
 	<para/>
 	<para/>
 	<para/>
