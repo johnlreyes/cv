@@ -13,4 +13,6 @@
     - http://docbkx-tools.sourceforge.net/
   -->
  
+	<xsl:param name="chapter.autolabel" select="0"/>
+	
 </xsl:stylesheet>
