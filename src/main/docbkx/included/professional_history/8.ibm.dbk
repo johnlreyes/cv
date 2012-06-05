@@ -11,7 +11,7 @@
 		<itemizedlist mark='bullet'>
 			<listitem>IBM's Enterprise Content Management System</listitem>	
 			<listitem>RAD, WebSphere, DB2, CVS</listitem>
-			<listitem>Servlet, JSP, JDBC, JS, CSS, HTML</listitem>
+			<listitem>Servlet, JSP, JDBC, XML, XSLT, JS, CSS, HTML</listitem>
 			<listitem>sample client: http://www.ibm.com</listitem>
 		</itemizedlist>		
 	</section>
@@ -41,7 +41,7 @@
 		<jobtitle><emphasis>GDC Team Lead</emphasis></jobtitle>		
 		<itemizedlist mark='bullet'>
 			<listitem>IBM's Enterprise Content Management System</listitem>	
-			<listitem>Lead offshore team</listitem>
+			<listitem>Lead PH GDC team</listitem>
 		</itemizedlist>		
 	</section>	
 	<para/>

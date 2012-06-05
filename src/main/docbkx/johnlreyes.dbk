@@ -2,7 +2,9 @@
 <book version="5.0" xmlns="http://docbook.org/ns/docbook" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xi="http://www.w3.org/2001/XInclude">
 	
 	<title>John L. Reyes</title>
-	<subtitle>May 19, 2012</subtitle>
+	<subtitle>
+            <para><?dbtimestamp format="B d, Y"?></para>
+        </subtitle>
 	 
 	<xi:include href="included/0.professional_overview.dbk" />
 	<xi:include href="included/1.personal_information.dbk" />

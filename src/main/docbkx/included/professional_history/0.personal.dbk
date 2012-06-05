@@ -5,6 +5,13 @@
 	<title>Personal</title>
 	<para/>
 	
+        <section>
+		<title>maven-schemaspy-plugin fork</title>
+		<jobtitle><emphasis>Developer</emphasis></jobtitle>	
+		<itemizedlist mark='bullet'>
+			<listitem><uri>https://github.com/johnlreyes/maven-schemaspy-plugin</uri></listitem>
+		</itemizedlist>		
+	</section>
 	<section>
 		<title>CV using docbook</title>
 		<jobtitle><emphasis>Developer</emphasis></jobtitle>	

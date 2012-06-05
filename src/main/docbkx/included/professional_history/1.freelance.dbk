@@ -10,7 +10,7 @@
 		<jobtitle><emphasis>Contributor</emphasis></jobtitle>	
 		<itemizedlist mark='bullet'>
 			<listitem><uri>http://www.zaahah.com/</uri></listitem>
-			<listitem>Social Collaboration (Search, using Bing and Wikipedia api)</listitem>
+			<listitem>Social Collaboration (Search, using Bing api, Wikipedia api and Google)</listitem>
 			<listitem>Using: Spring 3 MVC, Spring 3 Security, JPA, Thymeleaf, JQuery, Maven, MySQL, Amazon Beanstalk, Git</listitem>
 		</itemizedlist>		
 	</section>
@@ -40,6 +40,13 @@
 			<listitem>Using: JavaScript, Css, Git</listitem>
 		</itemizedlist>		
 	</section>
+        <section>
+                <title>Technology Blogging</title>
+                <jobtitle><emphasis>Blogger</emphasis></jobtitle>
+                <itemizedlist mark='bullet'>
+			<listitem><uri>http://blog.teamextension.com/author/jreyes</uri></listitem>
+		</itemizedlist>	
+        </section>
 	<section>
 		<title>Newsletter Management System</title>
 		<jobtitle><emphasis>Consultant</emphasis></jobtitle>	
