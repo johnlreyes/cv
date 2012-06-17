@@ -11,7 +11,7 @@
 		<itemizedlist mark='bullet'>
 			<listitem><uri>http://www.zaahah.com/</uri></listitem>
 			<listitem>Social Collaboration (Search, using Bing api, Wikipedia api and Google)</listitem>
-			<listitem>Using: Spring 3 MVC, Spring 3 Security, JPA, Thymeleaf, JQuery, Maven, MySQL, Amazon Beanstalk, Git</listitem>
+			<listitem>Using: Spring 3 MVC, Spring 3 Security, JPA, Thymeleaf, JQuery, Maven, MySQL, Lucene, Amazon Beanstalk, Git</listitem>
 		</itemizedlist>		
 	</section>
 	<section>
