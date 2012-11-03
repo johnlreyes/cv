@@ -35,18 +35,19 @@
 		<title>Memory Restart</title>
 		<jobtitle><emphasis>Contributor</emphasis></jobtitle>	
 		<itemizedlist mark='bullet'>
+			<listitem><uri>https://addons.mozilla.org/en-US/firefox/addon/memory-restart/</uri></listitem>
 			<listitem><uri>https://github.com/teamextension/memoryrestart</uri></listitem>
 			<listitem>Firefox plugin</listitem>
 			<listitem>Using: JavaScript, Css, Git</listitem>
 		</itemizedlist>		
 	</section>
-        <section>
-                <title>Technology Blogging</title>
-                <jobtitle><emphasis>Blogger</emphasis></jobtitle>
-                <itemizedlist mark='bullet'>
+    <section>
+        <title>Technology Blogging</title>
+        <jobtitle><emphasis>Blogger</emphasis></jobtitle>
+        <itemizedlist mark='bullet'>
 			<listitem><uri>http://blog.teamextension.com/author/jreyes</uri></listitem>
 		</itemizedlist>	
-        </section>
+    </section>
 	<section>
 		<title>Newsletter Management System</title>
 		<jobtitle><emphasis>Consultant</emphasis></jobtitle>	
