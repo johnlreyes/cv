@@ -48,6 +48,7 @@
                     <paperType>A4</paperType>
                     <fop1Extensions>1</fop1Extensions>
                     <foCustomization>src/main/resources/stylesheets/fo/docbook.xsl</foCustomization>
+		    <generateToc>book toc</generateToc>	
                 </configuration>
                 <dependencies>
                     <dependency>
