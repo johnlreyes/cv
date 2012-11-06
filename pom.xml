@@ -24,7 +24,7 @@
             <plugin>
                 <groupId>com.agilejava.docbkx</groupId>
                 <artifactId>docbkx-maven-plugin</artifactId>
-                <version>${<docbkx-maven-plugin.version>}</version>
+                <version>${docbkx-maven-plugin.version}</version>
                 <executions>
                     <execution>
                         <id>draft-output</id>
