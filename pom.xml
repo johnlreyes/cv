@@ -15,6 +15,8 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <maven.build.timestamp.format>yyyyMMdd</maven.build.timestamp.format>
+	<docbkx-maven-plugin.version>2.0.14</docbkx-maven-plugin.version>
+	<docbook-xml.version>5.0</docbook-xml.version>
     </properties>
 
     <build>
@@ -22,7 +24,7 @@
             <plugin>
                 <groupId>com.agilejava.docbkx</groupId>
                 <artifactId>docbkx-maven-plugin</artifactId>
-                <version>2.0.11</version>
+                <version>${<docbkx-maven-plugin.version>}</version>
                 <executions>
                     <execution>
                         <id>draft-output</id>
@@ -30,6 +32,7 @@
                         <goals>
                             <goal>generate-pdf</goal>
                             <goal>generate-html</goal>
+			    <goal>generate-rtf</goal>
                         </goals>
                         <configuration>
                             <draftMode>no</draftMode>
@@ -50,7 +53,7 @@
                     <dependency>
                         <groupId>org.docbook</groupId>
                         <artifactId>docbook-xml</artifactId>
-                        <version>5.0</version>
+                        <version>${docbook-xml.version}</version>
                         <type>pom</type>
                         <scope>runtime</scope>
                     </dependency>
@@ -68,6 +71,7 @@
                         <configuration>
                             <target>
                                 <copy overwrite="true" file="${project.build.directory}/docbkx/pdf/johnlreyes.pdf" tofile="release/johnlreyes_${maven.build.timestamp}.pdf"/>                               
+				<copy overwrite="true" file="${project.build.directory}/docbkx/rtf/johnlreyes.rtf" tofile="release/johnlreyes_${maven.build.timestamp}.rtf"/>                               
                             </target>
                         </configuration>                        
                     </execution>
