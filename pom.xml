@@ -71,6 +71,7 @@
                         </goals>
                         <configuration>
                             <target>
+				<mkdir dir="release"/>
                                 <copy overwrite="true" file="${project.build.directory}/docbkx/pdf/johnlreyes.pdf" tofile="release/johnlreyes_${maven.build.timestamp}.pdf"/>                               
 				<copy overwrite="true" file="${project.build.directory}/docbkx/rtf/johnlreyes.rtf" tofile="release/johnlreyes_${maven.build.timestamp}.rtf"/>                               
                             </target>
