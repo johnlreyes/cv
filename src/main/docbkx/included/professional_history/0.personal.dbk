@@ -6,19 +6,20 @@
 	<para/>
 	
         <section>
+		<title>Personal CV Delivery System</title>
+		<jobtitle><emphasis>Etc</emphasis></jobtitle>	
+		<itemizedlist mark='bullet'>
+			<listitem><uri>https://github.com/johnlreyes/cv</uri></listitem>
+			<listitem><uri>https://buildhive.cloudbees.com/job/johnlreyes/job/cv/</uri></listitem>
+			<listitem><uri>https://buildhive.cloudbees.com/job/johnlreyes/job/cv/ws/release/</uri></listitem>
+			<listitem>maven, docbook, github, cloudbees-behive-jenkins</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
 		<title>maven-schemaspy-plugin fork</title>
 		<jobtitle><emphasis>Developer</emphasis></jobtitle>	
 		<itemizedlist mark='bullet'>
 			<listitem><uri>https://github.com/johnlreyes/maven-schemaspy-plugin</uri></listitem>
-		</itemizedlist>		
-	</section>
-	<section>
-		<title>CV using docbook</title>
-		<jobtitle><emphasis>Developer</emphasis></jobtitle>	
-		<itemizedlist mark='bullet'>
-			<listitem><uri>https://github.com/johnlreyes/cv</uri></listitem>
-			<listitem>CV uploaded at github</listitem>	
-			<listitem>maven, docbook</listitem>
 		</itemizedlist>		
 	</section>
 	<section>
