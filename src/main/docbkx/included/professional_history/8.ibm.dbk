@@ -7,10 +7,10 @@
 	
 	<section>
 		<title>IBM ECM <date>05/11</date> to <date>PRESENT</date></title>
-		<jobtitle><emphasis>Developer: Java</emphasis></jobtitle>		
+		<jobtitle><emphasis>Developer/Lead: Java</emphasis></jobtitle>		
 		<itemizedlist mark='bullet'>
 			<listitem>IBM's Enterprise Content Management System</listitem>	
-			<listitem>RAD, WebSphere, DB2, CVS</listitem>
+			<listitem>RAD, WebSphere, DB2, CVS, AIX</listitem>
 			<listitem>Servlet, JSP, JDBC, XML, XSLT, JS, CSS, HTML</listitem>
 			<listitem>sample client: http://www.ibm.com</listitem>
 		</itemizedlist>		
@@ -42,6 +42,15 @@
 		<itemizedlist mark='bullet'>
 			<listitem>IBM's Enterprise Content Management System</listitem>	
 			<listitem>Lead PH GDC team</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>IBM ECM <date>12/12</date> to <date>01/13</date></title>
+		<jobtitle><emphasis>IRAM Technical Consultant</emphasis></jobtitle>		
+		<itemizedlist mark='bullet'>
+			<listitem>IBM's Reusable Asset Management Repository</listitem>	
+			<listitem>Provide skeleton for configuration and implementation overhaul, making the application flexible and extensible</listitem>
+			<listitem>Mentor developer which will continue the bulk of the development</listitem>
 		</itemizedlist>		
 	</section>	
 	<para/>
