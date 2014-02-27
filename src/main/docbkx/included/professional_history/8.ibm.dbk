@@ -46,13 +46,38 @@
 	</section>
 	<section>
 		<title>IBM ECM <date>12/12</date> to <date>01/13</date></title>
-		<jobtitle><emphasis>IRAM Technical Consultant</emphasis></jobtitle>		
+		<jobtitle><emphasis>IRAM Technical Java Consultant</emphasis></jobtitle>		
 		<itemizedlist mark='bullet'>
 			<listitem>IBM's Reusable Asset Management Repository</listitem>	
 			<listitem>Provide skeleton for configuration and implementation overhaul, making the application flexible and extensible</listitem>
 			<listitem>Mentor developer which will continue the bulk of the development</listitem>
 		</itemizedlist>		
-	</section>	
+	</section>
+	<section>
+		<title>IBM ECM PTS <date>01/13</date> to <date>PRESENT</date></title>
+		<jobtitle><emphasis>Lead Developer/Application architect</emphasis></jobtitle>		
+		<itemizedlist mark='bullet'>
+			<listitem>Web application/service and Standalone application to handle document indexing</listitem>
+			<listitem>Servlet, JSP, JDBC, XML, XSLT, JS, CSS, HTML, SOAP</listitem>
+			<listitem>RAD, WAS, DB2, AIX, SOAP</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>IBM WCM <date>01/14</date> to <date>PRESENT</date></title>
+		<jobtitle><emphasis>Developer</emphasis></jobtitle>		
+		<itemizedlist mark='bullet'>
+			<listitem>ECM ICons migration using WCM</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>IBM WCM IA ACL <date>01/14</date> to <date>PRESENT</date></title>
+		<jobtitle><emphasis>Lead Developer/Application architect</emphasis></jobtitle>		
+		<itemizedlist mark='bullet'>
+			<listitem>Batch/Cron standalone application for ACL configuration</listitem>
+			<listitem>Java, JDBC, REST</listitem>
+			<listitem>RAD, WAS, DB2, AIX, WebIdentity(Ldap)</listitem>
+		</itemizedlist>		
+	</section>
 	<para/>
 	<para/>
 	<para/>
