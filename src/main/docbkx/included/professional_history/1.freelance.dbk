@@ -38,6 +38,7 @@
 			<listitem><uri>http://pushmon.com/</uri></listitem>
 			<listitem>Alert platform for various medium for various indicator</listitem>
 			<listitem>Using: Spring 3 MVC, Spring 3 Security, Spring JDBC Template, FreeMarker, JQuery, Ivy, Liquibase, Derby, MySQL, Git</listitem>
+			<listitem>owasp security testing(xss firefox plugin)</listitem>
 		</itemizedlist>		
 	</section>
 	<section>
