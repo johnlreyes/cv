@@ -6,6 +6,15 @@
 	<para/>
 	
 	<section>
+		<title>Map Centrix</title>
+		<jobtitle><emphasis>Contributor</emphasis></jobtitle>	
+		<itemizedlist mark='bullet'>
+			<listitem><uri>http://www.mapcentrix.com/</uri></listitem>
+			<listitem>Tree care management</listitem>
+			<listitem>Using: Spring MVC, Spring Data, JPA, JQuery, Jasper Report, Maven, PosgreSQL, Google Map api v3, Google Map Clusterer</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
 		<title>Zahaah</title>
 		<jobtitle><emphasis>Contributor</emphasis></jobtitle>	
 		<itemizedlist mark='bullet'>
