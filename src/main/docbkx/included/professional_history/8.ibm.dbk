@@ -78,6 +78,23 @@
 			<listitem>RAD, WAS, DB2, AIX, WebIdentity(Ldap)</listitem>
 		</itemizedlist>		
 	</section>
+	<section>
+		<title>IBM WCM Cloudant POC <date>03/14</date> to <date>PRESENT</date></title>
+		<jobtitle><emphasis>Developer</emphasis></jobtitle>		
+		<itemizedlist mark='bullet'>
+			<listitem>Proof of Concept for using Cloudant</listitem>
+			<listitem>REST, JSP/Servlet, Jquery, Dojo, Xpath</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
+		<title>GDC ILC Reminder Utilities <date>03/14</date> to <date>PRESENT</date></title>
+		<jobtitle><emphasis>Lead Developer/Architect</emphasis></jobtitle>		
+		<itemizedlist mark='bullet'>
+			<listitem>Firefox addons (xul, javascript, xpath, css, maven, netbeans)</listitem>
+			<listitem>Chrome extension (chrome api, javascript, xpath, css, maven, netbeans)</listitem>
+			<listitem>Java SystemTray Application (httpclient, xpath, maven, netbeans)</listitem>
+		</itemizedlist>		
+	</section>
 	<para/>
 	<para/>
 	<para/>
