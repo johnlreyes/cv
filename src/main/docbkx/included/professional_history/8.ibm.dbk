@@ -87,6 +87,13 @@
 		</itemizedlist>		
 	</section>
 	<section>
+		<title>Internal Opensource Various Ant Task <date>09/13</date> to <date>09/13</date></title>
+		<jobtitle><emphasis>Developer</emphasis></jobtitle>		
+		<itemizedlist mark='bullet'>
+			<listitem>Ant task for seemless upload using ssh with a very large file</listitem>
+		</itemizedlist>		
+	</section>
+	<section>
 		<title>GDC ILC Reminder Utilities <date>03/14</date> to <date>PRESENT</date></title>
 		<jobtitle><emphasis>Lead Developer/Architect</emphasis></jobtitle>		
 		<itemizedlist mark='bullet'>
