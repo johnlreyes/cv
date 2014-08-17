@@ -12,7 +12,7 @@
 			<listitem>IBM's Enterprise Content Management System</listitem>	
 			<listitem>RAD, WebSphere, DB2, CVS, AIX</listitem>
 			<listitem>Servlet, JSP, JDBC, XML, XSLT, JS, CSS, HTML</listitem>
-			<listitem>sample client: http://www.ibm.com</listitem>
+			<listitem>sample client: http://www.ibm.com</listitem>pt
 		</itemizedlist>		
 	</section>
 	<section>
@@ -74,15 +74,17 @@
 		<jobtitle><emphasis>Lead Developer/Application architect</emphasis></jobtitle>		
 		<itemizedlist mark='bullet'>
 			<listitem>Batch/Cron standalone application for ACL configuration</listitem>
+			<listitem>Page ACL implemented with portal filter/portlet preprocessor (AOP approach)</listitem>
 			<listitem>Java, JDBC, REST</listitem>
-			<listitem>RAD, WAS, DB2, AIX, WebIdentity(Ldap)</listitem>
+			<listitem>RAD, WAS, Portal/WCM, DB2, AIX, WebIdentity(Ldap)</listitem>
 		</itemizedlist>		
 	</section>
 	<section>
-		<title>IBM WCM Cloudant POC <date>03/14</date> to <date>PRESENT</date></title>
-		<jobtitle><emphasis>Developer</emphasis></jobtitle>		
+		<title>IBM WCM Cloudant Adoption <date>03/14</date> to <date>PRESENT</date></title>
+		<jobtitle><emphasis>Technical Lead/ Lead Developer</emphasis></jobtitle>		
 		<itemizedlist mark='bullet'>
 			<listitem>Proof of Concept for using Cloudant</listitem>
+			<listitem>Various portal adoption like ibm.com</listitem>
 			<listitem>REST, JSP/Servlet, Jquery, Dojo, Xpath</listitem>
 		</itemizedlist>		
 	</section>
