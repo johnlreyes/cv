@@ -80,10 +80,10 @@
 		</itemizedlist>		
 	</section>
 	<section>
-		<title>IBM WCM Cloudant Adoption <date>03/14</date> to <date>PRESENT</date></title>
+		<title>IBM WCM Cloudant Projects <date>03/14</date> to <date>PRESENT</date></title>
 		<jobtitle><emphasis>Technical Lead/ Lead Developer</emphasis></jobtitle>		
 		<itemizedlist mark='bullet'>
-			<listitem>Proof of Concept for using Cloudant</listitem>
+			<listitem>Made with IBM, ECC, CRDB</listitem>
 			<listitem>Various portal adoption like ibm.com</listitem>
 			<listitem>REST, JSP/Servlet, Jquery, Dojo, Xpath</listitem>
 		</itemizedlist>		
